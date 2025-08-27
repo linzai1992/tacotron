@@ -3,6 +3,8 @@
 '''
 By kyubyong park. kbpark.linguist@gmail.com. 
 https://www.github.com/kyubyong/tacotron
+
+Additional contributions by yunlinchen
 '''
 from __future__ import print_function
 import tensorflow as tf
